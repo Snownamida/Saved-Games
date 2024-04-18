@@ -36,7 +36,7 @@ ________________________________________________________________________________
             Shared System Memory: 7.92 GiB (8,109 MiB)
             Graphics Preemption : pixel
             Compute Preemption  : dispatch
-            TFlops              : 8.064000
+            TFlops              : 8.524799
             Dedicated GPU       : 1
             Flags               : ACG_COMPATIBLE (0x04)
                                   SUPPORT_MONITORED_FENCES (0x08)

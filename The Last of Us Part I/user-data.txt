@@ -1,0 +1,71 @@
+built: Mar 18 2024 at 11:23:21
+changelist: 3817329
+machine-name: ALOPEX
+active-menu: (none)
+service-display-name: FLT
+service-account-id: 1660708397
+service-type: Steam
+username: 
+gamename: t1x
+branchname: t1xfinal-pc-1.1.3
+build-config: t1xfinal-pc-1.1.3-t1x-x64-rtm
+assert-msg: Device removed with reason: 0x887a0006 - GPU 
+assert-expr: HALT
+assert-func: ndgi::AssertDeviceRemoved
+assert-file: ndlib/render/ndgi/win/ndgi-win.cpp
+assert-line: 960
+debug-feature-used: 0
+command-line: ‚Ú=:
+active-jobs: Thread Idle, Thread Idle, Thread Idle, Thread Idle, Thread Idle, Thread Idle, PostProcessUpdate, Thread Idle
+active-tasks: suburbs-sub-exploration-second-street
+script-call-stacks: <empty-array>
+dynamic-encounters: <empty-array>
+time-since-game-start-seconds: 747.243835
+time-since-game-start-hours: 0
+time-since-game-start-bucket: first-hour
+gpu-name: NVIDIA GeForce RTX 2060
+gpu-driver-version: 537.58
+cpu-info: GenuineIntel Intel(R) i5-9300H
+cpu-cores: 8
+display-resolution-width: 1920
+display-resolution-height: 1080
+os-version: Windows 10.0.26040
+windows-version: Win11
+pso-percent: -1
+last-gpu-crash-hresult-code: 0x887a0006
+last-gpu-crash-hresult-string: DXGI_ERROR_DEVICE_HUNG
+memory-used-percent: 87
+memory-physical-total-bytes: 17006317568
+memory-physical-available-bytes: 2149793792
+memory-virtual-total-bytes: 140737488224256
+memory-virtual-available-bytes: 140137380933632
+memory-page-file-total-bytes: 59955990528
+memory-page-file-available-bytes: 29177753600
+memory-commit-total-bytes: 30778236928
+memory-commit-limit-bytes: 59955990528
+memory-page-size-bytes: 4096
+vram-free-bytes: 1010040832
+vram-used-bytes: 4520787968
+vram-budget-bytes: 5441982464
+vram-over-budget: false
+vram-buffers-used-bytes: 794494464
+vram-buffers-budget-bytes: 1275068416
+vram-shaders-used-bytes: 229864960
+vram-shaders-budget-bytes: 553648128
+vram-ndgi-used-bytes: 50716256
+vram-ndgi-budget-bytes: 93323264
+vram-ndgi-over-budget: false
+vram-ndrg-used-bytes: 11888768
+vram-ndrg-budget-bytes: 15728640
+vram-render-pool-used-bytes: 78699024
+vram-render-pool-budget-bytes: 123731968
+vram-render-globals-used-bytes: 16139184
+vram-render-globals-budget-bytes: 16777216
+drive-c-total-bytes: 1992814485504
+drive-c-free-bytes: 1421600927744
+drive-e-total-bytes: 554926080
+drive-e-free-bytes: 497147904
+drive-g-total-bytes: 4000768323584
+drive-g-free-bytes: 1425322233856
+gpu-diagnostics: Declined
+gpu-removed-reason: 0x887a0006
